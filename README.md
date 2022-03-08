@@ -17,14 +17,16 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Analysis: Default risk of loans with income not verified is much higher for amounts over 6K and 3P income verified loans over 8K.
-- Proposal: Mandate an income verification process by the lender for loans over 6K
-- Analysis: Short term loans with higher interest rate (> 10%) are at risk of defaults.
-- Analysis: Sub grades B3, B4, B5, C3, D2, D3& D4 are most at risk of defaults and annual incomes below 40K will need extra scrutiny.
-- Proposal: Mandate an Annual Income > 40K as eligibility for all the loans
+Analysis: 
+- Default risk of loans with income not verified is much higher for amounts over 6K and 3P income verified loans over 8K.
+- Short term loans with higher interest rate (> 10%) are at risk of defaults.
+- Sub grades B3, B4, B5, C3, D2, D3& D4 are most at risk of defaults and annual incomes below 40K will need extra scrutiny.
 - Most at risk: Early career (2 to 5 years) member with incomes not verified
 - Next most at risk: Freshers (<=1 year) with incomes not verified 
-- Proposal: Mandate income verification process for loan applicants up to 5 years of employment experience particularly for loan grades B, C and D
+Proposal: 
+- Mandate an Annual Income > 40K as eligibility for all the loans
+- Mandate an income verification process by the lender for loans over 6K
+- Mandate income verification process for loan applicants up to 5 years of employment experience particularly for loan grades B, C and D
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
